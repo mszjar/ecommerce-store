@@ -11,7 +11,7 @@ const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Buenled',
-  description: 'Buenled - The place for all your leds.',
+  description: 'Achat de LEDs rapidement et facilement',
 }
 
 export default function RootLayout({
